@@ -47,6 +47,10 @@ body {
     font-size: 1.5rem;
 }
 
+#expand:hover {
+    cursor: pointer;
+}
+
 #add-new-todo input {
     border: none;
     background-color: #FCEADE;
